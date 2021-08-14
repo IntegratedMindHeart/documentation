@@ -1,0 +1,35 @@
+Group Number - 3
+
+Team Name - Integrated Mind Heart
+
+Project Name - Project Red Mind
+
+Team Leader - Satyam Seth
+
+Other Members -
+
+1 - Ankit Kumar Gupta
+
+2 - Alisha Parveen
+
+3 - Harshit Dixit
+
+4 - Abhishek Kumar Yadav
+
+GitHub Organization Link - https://github.com/IntegratedMindHeart
+
+GitHub Website Repository Link - https://github.com/IntegratedMindHeart/project_red_mind
+
+GitHub API Repository Link - https://github.com/IntegratedMindHeart/api
+
+GitHub Data Collection Repository Link - https://github.com/IntegratedMindHeart/data_collection
+
+GitHub ML Repository Link - https://github.com/IntegratedMindHeart/ml_model
+
+GitHub Documentation Repository Link - https://github.com/IntegratedMindHeart/documentation
+
+Project Website URL - https://projectredmind.herokuapp.com/
+
+Project API URL - https://porjectredmindapi.herokuapp.com/
+
+Youtube Video URL - https://youtu.be/3-Ko3rMPN38
